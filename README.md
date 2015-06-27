@@ -9,4 +9,4 @@ For the Project following steps were taken
 Following are the important documents for this Project
  - Lesson 6 Iterative Parsing Excercise code -mapparser.py
  - Lesson 6 Tags Types Excercise code - tags.py
- - Lesson
+ - Lesson 6 Exploring Users code - users.py
