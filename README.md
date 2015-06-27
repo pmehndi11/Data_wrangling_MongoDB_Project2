@@ -7,4 +7,6 @@ For the Project following steps were taken
 - Change the format to Json and store it in Mongo DB for further analysis and insight.
 
 Following are the important documents for this Project
- - Lesson 6 Iterative Parsing Excercise mapparser.py
+ - Lesson 6 Iterative Parsing Excercise code -mapparser.py
+ - Lesson 6 Tags Types Excercise code - tags.py
+ - Lesson
