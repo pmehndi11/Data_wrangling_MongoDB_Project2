@@ -1,4 +1,4 @@
-# Data_wrangling_MongoDB_Project2
+# Data_Wrangling_MongoDB_Project2
 Data wrangling with Mongo DB for Open street map of Philadelphia - audit, analysis, data modeling , fixes , converstion and further insights. For this Project i have chosen the Philadelphia in Open Street Map which is familiar to me.
 For the Project following steps were taken
 - Audited the quality of data for its validity , accuracy, completeness, inconsistency and uniformity
@@ -10,3 +10,4 @@ Following are the important documents for this Project
  - Lesson 6 Iterative Parsing Excercise code -mapparser.py
  - Lesson 6 Tags Types Excercise code - tags.py
  - Lesson 6 Exploring Users code - users.py
+ - Lesson 6 Audit and Improve street names code - audit.py
