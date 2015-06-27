@@ -11,3 +11,4 @@ Following are the important documents for this Project
  - Lesson 6 Tags Types Excercise code - tags.py
  - Lesson 6 Exploring Users code - users.py
  - Lesson 6 Audit and Improve street names code - audit.py
+ - Lesson 6 Preparing the Database( wrangle and transform to Json) - data.py
