@@ -7,6 +7,9 @@ For the Project following steps were taken
 - Change the format to Json and store it in Mongo DB for further analysis and insight.
 
 Following are the important documents for this Project
+
+Lesson 6 related code
+
  - Lesson 6 Iterative Parsing Excercise code -   https://github.com/pmehndi11/Data_wrangling_MongoDB_Project2/blob/master/map_parser.py
  - Lesson 6 Tags Types Excercise code - https://github.com/pmehndi11/Data_wrangling_MongoDB_Project2/blob/master/tags.py
  - Lesson 6 Exploring Users code - https://github.com/pmehndi11/Data_wrangling_MongoDB_Project2/blob/master/users.py
