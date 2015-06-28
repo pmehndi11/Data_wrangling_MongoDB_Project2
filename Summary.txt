@@ -1,0 +1,17 @@
+Name - Punit Mehndiratta
+Map area - Philadelphia, PA , United States
+Map link  for Philadelphia bziped XML OSM data - http://metro.teczno.com/#philadelphia
+
+Short description about the area and why i chose it - 
+I have been living in the Philadelphia region for may years and due to familiarity with the region , i chose it.
+
+Philadelphia is the largest city in the Commonwealth of Pennsylvania and its only consolidated city-county,
+the fifth-most-populous city in the United States, and the core of the sixth-largest metropolitan area in the country.
+Located in the Northeastern United States at the confluence of the Delaware and Schuylkill rivers,
+Philadelphia is the economic and cultural center of the Delaware Valley.
+The population of the city was counted at 1,526,006 in 2010 and estimated at 1,560,297 in 2014,according to the United States Census Bureau.
+The four Pennsylvania counties nearest Philadelphia had an estimated total population of 2,510,793 in 2013;
+while by 2014 census estimates, the Philadelphia metropolitan area, also known as the Delaware Valley, is home to 6.1 million residents,
+and the larger Philadelphia-Reading-Camden, PA-NJ-DE-MD Combined Statistical Area contains approximately 7.2 million residents.
+
+
