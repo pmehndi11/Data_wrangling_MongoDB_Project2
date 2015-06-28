@@ -3,7 +3,7 @@
 """
 Our task in this exercise has three steps:
 
-- audit the OSMFILE and change the variable 'mapping' to reflect the changes needed to fix 
+- audit the OSMFILE(philadelphia.osm full data) and change the variable 'mapping' to reflect the changes needed to fix 
     the unexpected street types to the appropriate ones in the expected list.
     We have to add mappings only for the actual problems you find in this OSMFILE,
     not a generalized solution, since that may and will depend on the particular area you are auditing.
@@ -12,7 +12,7 @@ Our task in this exercise has three steps:
     We have provided a simple test so that you see what exactly is expected
     
 -  Our task is also to wrangle the data and transform the shape of the data
-into the model we mentioned earlier. The output should be a list of dictionaries
+into the model as below. The output should be a list of dictionaries
 that look like this:
 
 {
