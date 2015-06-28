@@ -1,0 +1,15 @@
+List of websites, documentation and repositories as reference
+- Python reference for statements -  https://docs.python.org/3/reference/simple_stmts.html 
+- Stack overflow - creating dictionaries with list comprehension - 
+  stackoverflow.com/questions/1747817/python-create-a-dictionary-with-list-comprehension?rq=1
+- Python Regular expressions - https://developers.google.com/edu/python/regular-expressions?csw=1
+- Python xmlElementTree doc - https://docs.python.org/2/library/xml.etree.elementtree.html#module-xml.etree.ElementTree
+- Stack overflow - inserting new lines in xml files generated via elementTree 
+  stackoverflow.com/questions/3095434/inserting-newlines-in-xml-file-generated-via-xml-etree-elementtree-in-python
+- Parsing xml documents - pymotw.com/2/xml/etree/ElementTree/parse.html
+- Incremental Parsing via iterparse - http://effbot.org/zone/element-iterparse.htm#incremental-parsing
+- Mongo DB aggregation operators - http://docs.mongodb.org/manual/reference/operator/aggregation/
+- Mongo DB installation and Operations - api.mongodb.org/python/current/installation.html#bit-windows
+- Mongo DB manual -  docs.mongodb.org/manual/indexes/
+- OSM  XML - http://wiki.openstreetmap.org/wiki/OSM_XML
+- Philadelphia Wiki Page - https://en.wikipedia.org/wiki/Philadelphia
