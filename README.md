@@ -36,6 +36,6 @@ Project 2 summary information
 
 Project 2 Detailed Report
 
-Project Detailed Report  - 
+Project Detailed Report  - https://github.com/pmehndi11/Data_wrangling_MongoDB_Project2/blob/master/DataWranglingOpenStreetMapProjectReport.pdf
  
  
